@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+		http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id= "cacheManager" class="org.springframework.cache.ehcache.EhCacheManagerFactoryBean" >
+		<property name="configLocation" value="classpath:ehcache.xml"/>
+	</bean>
+
+	<bean id="listInternalCache" class="net.sf.ehcache.Cache" factory-bean="cacheManager" factory-method="getCache">
+		<constructor-arg value="listEhCache"/>
+	</bean>
+	<bean id="mapInternalCache" class="net.sf.ehcache.Cache" factory-bean="cacheManager" factory-method="getCache">
+		<constructor-arg value="mapEhCache"/>
+	</bean>
+	<bean id="replaceInPatternInternalCache" class="net.sf.ehcache.Cache" factory-bean="cacheManager" factory-method="getCache">
+		<constructor-arg value="replaceInPatternEhCache"/>
+	</bean>
+	<bean id="insertInPatternInternalCache" class="net.sf.ehcache.Cache" factory-bean="cacheManager" factory-method="getCache">
+		<constructor-arg value="insertInPatternEhCache"/>
+	</bean>
+	<bean id="attributeInternalCache" class="net.sf.ehcache.Cache" factory-bean="cacheManager" factory-method="getCache">
+		<constructor-arg value="attributeEhCache"/>
+	</bean>
+	<bean id="operationInternalCache" class="net.sf.ehcache.Cache" factory-bean="cacheManager" factory-method="getCache">
+		<constructor-arg value="operationEhCache"/>
+	</bean>
+	<bean id="parseActivityInternalCache" class="net.sf.ehcache.Cache" factory-bean="cacheManager" factory-method="getCache">
+		<constructor-arg value="parseActivityEhCache"/>
+	</bean>
+</beans>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<ivy-module version="2.0">
+  <info organisation="Test" module="Test"/>
+   <configurations
+              defaultconfmapping="build->default;compile->compile(*),master(*);test,runtime->runtime(*),master(*)">
+              <conf name="build" />
+              <conf name="compile" />
+              <conf name="test" extends="compile" />
+              <conf name="runtime" extends="compile" />
+       </configurations>
+  <dependencies>
+  	<dependency org="log4j" name="log4j" rev="1.2.9" conf="runtime->default" />
+    <dependency org="org.springframework" name="spring-webmvc" rev="3.0.5.RELEASE"/>
+    <dependency org="org.springframework" name="spring-web" rev="3.0.5.RELEASE"/>
+	<dependency org="org.springframework" name="spring-core" rev="3.0.5.RELEASE"/>
+	<dependency org="org.springframework" name="spring-context" rev="3.0.5.RELEASE"/>
+    <dependency org="org.springframework" name="spring-beans" rev="3.0.5.RELEASE"/>
+    <dependency org="org.quartz-scheduler" name="quartz" rev="1.8.6"/>
+	<dependency org="org.apache.poi" name="poi" rev="3.9"/>
+				    
+  </dependencies>
+</ivy-module>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="
+	http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+	http://www.springframework.org/schema/context
+	http://www.springframework.org/schema/context/spring-context-3.0.xsd
+	http://www.springframework.org/schema/mvc
+	http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd
+	http://www.springframework.org/schema/util 
+	http://www.springframework.org/schema/util/spring-util-3.0.xsd
+	">
+
+
+    <mvc:annotation-driven />
+    <context:component-scan base-package="com.cts.textparser.*" />
+    
+    <context:property-placeholder location="classpath:application.properties" />
+    
+	<bean id="resultCodeProperties" class="org.springframework.beans.factory.config.PropertiesFactoryBean">
+    	<property name="location" value="classpath:resultCode.properties" />
+	</bean>	
+    
+    <import resource="classpath:cache.xml"/>
+    <import resource="classpath:scheduler.xml"/>
+
+	<bean id="listDictionaryCache" class="com.cts.textparser.cache.impl.DictionaryCacheImpl">
+		<constructor-arg value="list"/>
+		<constructor-arg ref="listInternalCache"/>
+	</bean>
+	<bean id="mapDictionaryCache" class="com.cts.textparser.cache.impl.DictionaryCacheImpl">
+		<constructor-arg value="map"/>
+		<constructor-arg ref="mapInternalCache"/>
+	</bean>
+	<bean id="replaceInPatternDictionaryCache" class="com.cts.textparser.cache.impl.DictionaryCacheImpl">
+		<constructor-arg value="replaceInPattern"/>
+		<constructor-arg ref="replaceInPatternInternalCache"/>
+	</bean>
+	<bean id="insertInPatternDictionaryCache" class="com.cts.textparser.cache.impl.DictionaryCacheImpl">
+		<constructor-arg value="insertInPattern"/>
+		<constructor-arg ref="insertInPatternInternalCache"/>
+	</bean>
+	<bean id="attributeDictionaryCache" class="com.cts.textparser.cache.impl.DictionaryCacheImpl">
+		<constructor-arg value="attribute"/>
+		<constructor-arg ref="attributeInternalCache"/>
+	</bean>
+	<bean id="operationDictionaryCache" class="com.cts.textparser.cache.impl.DictionaryCacheImpl">
+		<constructor-arg value="operation"/>
+		<constructor-arg ref="operationInternalCache"/>
+	</bean>
+	<bean id="parseActivityDictionaryCache" class="com.cts.textparser.cache.impl.DictionaryCacheImpl">
+		<constructor-arg value="parseActivity"/>
+		<constructor-arg ref="parseActivityInternalCache"/>
+	</bean>
+	
+	<util:map id="dictionaryCaches" key-type="java.lang.String" value-type="com.cts.textparser.cache.DictionaryCache">
+		<entry key="list" value-ref="listDictionaryCache"/>
+		<entry key="map" value-ref="mapDictionaryCache"/>
+		<entry key="replaceInPattern" value-ref="replaceInPatternDictionaryCache"/>
+		<entry key="insertInPatternDictionaryCache" value-ref="insertInPatternDictionaryCache"/>
+		<entry key="attribute" value-ref="attributeDictionaryCache"/>
+		<entry key="operation" value-ref="operationDictionaryCache"/>
+		<entry key="parseActivity" value-ref="parseActivityDictionaryCache"/>
+	</util:map>
+</beans>

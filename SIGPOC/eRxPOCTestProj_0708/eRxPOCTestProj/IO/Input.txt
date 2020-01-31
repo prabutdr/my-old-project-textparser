@@ -1,0 +1,503 @@
+inhale 1 puff by inhalation route every 12 hours|INL 1 PUFF BY INHALATION Q 12 H ||
+Inhale 1 puff(s) twice a day by inhalation route for 30 days.|INL 1 PUFF BY INHALATION BID X 30 DAYS ||
+Inhale 1 puff po q 12 h for Asthma|INL 1 PUFF PO Q 12 H FOR ASTHMA ||
+INHALE 1 PUFF BY MOUTH TWICE DAILY BEFORE MEALS|INL 1 PUFF PO BID B MEALS ||
+2 puff(s) Inhalation 2xDay,Instr:new med for copugh and SOB|2 PUFF BY INHALATION 2 TIMES DAY FOR SOB ||
+220 mcg Inhale BID (std),x60 day(s)|INL 220 MCG BID X 60 DAY ||
+Inhale 1 puff using inhaler every morning|INL 1 PUFF QAM INHALER ||
+1 Puff Every Morning|1 PUFF QAM ||
+110 mcg inh qpm|110 MCG QPM ||
+Inhale 4 puffs into the lungs 4 (four) times daily before meals and nightly.|INL 4 PFS LUNGS XD NIGHTLY B MEALS ||
+2 puffs 4 x a day|2 PFS QID ||
+2 puffs qid prn|2 PFS QID PRN ||
+1 puff(s) in the nose QD (Daily)|1 PUFF NOSE QD D ||
+spray 2 spray by intranasal route  every day in each nostril|2 SPR SPR BY INTRANASAL EACH NOS QD ||
+1 spray each nostril qd|1 SPR EACH NOS QD ||
+Apply once daily at bedtime to scalp|APP SCALP 1 TIME D BED ||
+Take 1 capsule(s) every day by oral route for 30 days.|TK 1 C BY ORAL QD X 30 DAYS ||
+1 (one) CAPSULE qD (daily) ORAL for 90 (ninety) DAYS|TK C BY ORAL QD D ||
+1 (one) Capsule, Oral, qid x 10 days|TK C BY ORAL QID X 10 DAYS ||
+1 cap Capsule, Oral, four times daily|TK 1 C C BY ORAL QID ||
+1 cap po q 8 hr with food|TK 1 C PO Q 8 HOUR WF ||
+1 Cap PO Q24H,x30 Day(s)|TK 1 C PO Q 24 H X 30 DAY ||
+1 cap PO QID,x30 days|TK 1 C PO QID X 30 DAYS ||
+1 cap po tid for 10 days|TK 1 C PO TID X 10 DAYS ||
+1 cap(s) PO Daily,x90 day(s)|TK 1 C PO D X 90 DAY ||
+1 capsule by mouth Nightly .|TK 1 C PO NIGHTLY ||
+1 capsule by mouth nightly as needed (PRN)|TK 1 C PO NIGHTLY PRN PRN ||
+1 Capsule(s) PO QPM|TK 1 C PO QPM ||
+1 Capsule(s) PO TID, PRN, take medication with food|TK 1 C PO TID WF PRN ||
+1 Capsule, Oral, po qhs|TK 1 C PO ORAL Q NIGHT BED ||
+1 ORAL every day|BY ORAL QD ||
+1 p.o. b.i.d.|BID P ||
+1 PO BID with food|PO BID WF ||
+1 po qd w/food|PO QD WF ||
+1 po QID x 7 days.|PO QID X 7 DAYS ||
+1 PO TID W/FOOD|PO TID WF ||
+1 q 8 hrs PO x 10 days|PO Q 8 H X 10 DAYS ||
+1 tablet on an empty stomach in the morning Once a day Orally 90 days|TK 1 T BY ORALLY EMPTY STOMACH 1 TIME A DAY MORNING X 90 DAYS ||
+1, QID, **Pharmacy-Please note change in dosage and frequency**|QID ||
+1PO  Q TID   PRN|PO TID PRN ||
+2 cap PO BID,x30 Days|TK 2 C PO BID X 30 DAYS ||
+2 capsule ORAL TID (3 times a day),x30 day(s),PRN:back pain|TK 2 C BY ORAL TID TID X 30 DAY FOR BACK PAIN PRN ||
+2 capsules po Q 12 hr x 10 days|TK 2 CS PO Q 12 HOUR X 10 DAYS ||
+2 po q day|PO QD ||
+2 po q12h x 10 days|PO Q 12 H X 10 DAYS ||
+3 Capsule, Oral, daily at bedtime|TK 3 C BY ORAL D BED ||
+400 mg po qd|400 MG PO QD ||
+400 MG PO QID PAIN CENTER|400 MG PO QID P CENTER ||
+50 MG PO Q8H|50 MG PO Q 8 H ||
+500 MG PO TID|500 MG PO TID ||
+Give 1 Cap by mouth 2 times daily with meals for 5 days.|G 1 C PO BID WC X 5 DAYS ||
+One BID with food x10days|BID WF X 10 DAYS ||
+One Four Times a Day|FID ||
+one tab po QHS|TK 1 T PO Q NIGHT BED ||
+ORAL 1 ORAL EVERY MORNING|BY ORAL ORAL QAM ||
+PO 1 TABLET BY MOUTH FOUR TIMES A DAY|TK 1 T PO MOUTH QID ||
+Take 1 Cap by mouth three times a day. Take with food and water.|TK TK 1 C PO TID WF WATER ||
+Take 1 capsule by mouth every 6 (six) hours as needed.|TK 1 C PO PRN ||
+TAKE 1 CAPSULE BY MOUTH EVERY DAY ON AN EMPTY STOMACH|TK 1 C PO EMPTY STOMACH QD ||
+Take 1 capsule by mouth nightly.|TK 1 C PO NIGHTLY ||
+take 1 capsule by oral route daily for 30 days at bedtime.|TK 1 C BY ORAL D BED X 30 DAYS ||
+take 1 capsule by oral route QID for 10 days|TK 1 C BY ORAL QID X 10 DAYS ||
+Take 1 capsule every night at bedtime (qhs) for 30 days|TK 1 C Q NIGHT Q NIGHT BED BED X 30 DAYS ||
+TAKE 1 CAPSULE ONCE DAILY IN THE EVENING.|TK 1 C 1 TIME D EVE ||
+Take 1 Capsule Oral tid (three times a day) for 30 days Dispense date 3/10/14|TK 1 C BY ORAL TID TID X 30 DAYS ||
+take 1 capsule PO 3 x a day|TK 1 C PO TID ||
+Take 1 capsule(s) 3 times a day by oral route with meals for 30 days.|TK 1 C BY ORAL TID WC X 30 DAYS ||
+Take 1 capsule(s) by mouth q8h for 10 days|TK 1 C PO Q 8 H X 10 DAYS ||
+Take 1 capsule(s) every 6 hours by oral route as needed for 10 days.|TK 1 C BY ORAL Q 6 H X 10 DAYS PRN ||
+1 cap po bid x 10 days with food|TK 1 C PO BID WF X 10 DAYS ||
+Take 1 daily|TK D ||
+TAKE 2 CAPSULES BY MOUTH FOUR TIMES DAILY AS NEEDED|TK 2 CS PO QID PRN ||
+Take 2 capsules once a day (qd) for 10 days|TK 2 CS 1 TIME A DAY QD X 10 DAYS ||
+Take 2 Four times daily|TK QID ||
+Take 3 capsules by mouth 2 (two) times daily. X 10 days|TK 3 CS PO XD X 10 DAYS ||
+Take 900mg Q HS for migraines and neuropathy|TK 900 MG BED FOR MIGRAINES ||
+Take as needed for swelling with banana and orange juice|TK FOR SWELLING PRN ||
+take one at 7pm|TK EVE ||
+Take one by mouth qhs as needed for pain|TK PO Q NIGHT BED P PRN ||
+TAKE ONE CAPSULE BY MOUTH THREE TIMES DAILY|TK 1 C PO TID ||
+take one tablet every 8 hrs. prn muscle spasms. for 40 days|TK 1 T Q 8 H X 40 DAYS FOR MUSCLE SPASMS PRN ||
+take po 1xd|TK PO 1 XD ||
+TK 1 C PO QID|TK 1 C PO QID ||
+CHEW AND SWALLOW 1 TABLET DAILY AS DIRECTED|SWALLOW CHEW 1 T D UTD ||
+Take 1 capsule(s) every day by oral route in the evening for 30 days.|TK 1 C BY ORAL QD EVE X 30 DAYS ||
+TAKE 1 CAPSULE BY MOUTH EVERY 12 HOURS|TK 1 C PO Q 12 H ||
+Take 1 pill by mouth BID X 2 Weeks (14d) As Needed|TK 1 PILL PO BID D X 2 WKS PRN ||
+Take 1 pill by mouth QD (Daily) X 1 Month (30d) for pain|TK 1 PILL PO QD D D X 1 MONTH P ||
+Take 1 capsule by mouth daily (every 24 hours). Take before meals|TK TK 1 C PO Q 24 H D B MEALS ||
+take 1 capsule by oral route  every 12 hours before a meal for GASTRITIS|TK 1 C BY ORAL Q 12 H AC ||
+TAKE ONE CAPSULE BY MOUTH EVERY MORNING 1/2 HOURS BEFORE A MEAL|TK 1 C PO QAM AC ||
+1 cap(s) orally once a day x 30 days - take 1 hours before meals|TK 1 C BY ORALLY 1 TIME A DAY B MEALS X 30 DAYS ||
+1 po qdaily, in am half an hour before food|PO D MORNING FOOD ||
+60 MG PO BID|60 MG PO BID ||
+25mg po q hs|25 MG PO BED ||
+1 app top daily,x14 day(s)|APP BY TOPICALLY D X 14 DAY ||
+TOPICAL aply daily to affected area x 2 weeks.|BY TOPICAL AFFECTED AREA D X 2 WKS ||
+apply to left armpit 2x/day as needed for rash|APP LEFT ARMPIT FOR RASH PRN ||
+Instill one drop in the left eye QID|INT 1 GTT OS QID ||
+1 drop TID Both Eyes|1 GTT OU TID ||
+Instill 1 drop into the right eye 2 times a day. STart after surgery.|INT 1 GTT OD BID ||
+60 mL Rectal At Bedtime,x7 Day(s)|60 ML BY R BED X 7 DAY ||
+Insert 60 mL into the rectum nightly.|I 60 ML RECTUM NIGHTLY ||
+1 gm apply on the skin twice a day as needed (PRN); rash on scalp  for up to 2 weeks|APP APP SCALP SKIN BID X 2 WKS FOR RASH PRN PRN ||
+Apply topically 2 times daily. Max is 2 weeks.|APP BY TOPICALLY BID X 2 WKS ||
+Place 1 applicator rectally 2 times daily for 28 days.|PLACE 1 APPLICATOR BY REC BID X 28 DAYS ||
+Location: Left Eye. INSTILL ONE DROP QID|INT 1 GTT OS QID ||
+Apply 1 drop into both eyes four times a day as needed|APP 1 GTT OU QID PRN ||
+1 gtt Q4H OS|1 GTT OS Q 4 H ||
+Instill one drop OD QD|INT 1 GTT OD QD ||
+1 drop TID Left Eye  Dispense 30 day supply.|1 GTT OS TID X 30 DAY ||
+1 drop TID Operative Eye|1 GTT OPERATIVE EYE TID ||
+1 gtt OU BID|1 GTT OU BID ||
+Apply 1 application(s) every day by topical route as directed for 30 days.|APP 1 APPLICATION BY TOPICAL QD X 30 DAYS UTD ||
+APPLY KIT TWICE DAILY FOR 14 DAYS|APP KIT BID X 14 DAYS ||
+apply 1 inch to the affected area(s) by Topical route 3 times per day PRN|APP 1 INCH BY TOPICAL AFFECTED AREA 3 TIMES PER DAY PRN ||
+apply to the affected area(s) by topical route 2 times per day for 7 day(s)|APP BY TOPICAL AFFECTED AREA 2 TIMES PER DAY X 7 DAY ||
+apply to scalp QD up to 2 weeks|APP SCALP QD X 2 WKS ||
+1 Application TOP QD to legs and arms|1 APPLICATION BY TOPICALLY LEGS ARMS QD ||
+1 (one) thin film, External, applied to scalp QD PRN|THIN FILM BY EXT SCALP QD PRN ||
+Take 1 packet by mouth 2 times daily for 10 days. Follow package directions.|TK 1 PACKAGE PACKET PO BID X 10 DAYS ||
+take 1 dose by oral route 2 times per day for 14 days|TK BY ORAL 2 TIMES PER DAY X 14 DAYS ||
+1 PKT PO BID,x14 day(s)|1 PKT PO BID X 14 DAY ||
+1.25 mg INH Q4hr,PRN:Wheezing|1.25 MG Q 4 HOUR FOR WHZ PRN ||
+5 Drop Ears, Both BID,x7 Days|5 GTT BY EARS BID X 7 DAYS ||
+instill 5 drop by otic route 2 times every day into affected ear(s)|INT OTIC 5 GTT AFFECTED EAR 2 TIMES QD ||
+apply to ear BID prn itching|APP BY EAR BID FOR ITCHING PRN ||
+Place 5 Drops into both ears two times a day for 14 days.|PLACE 5 GTS AU BID X 14 DAYS ||
+instill 5 drops into right ear by otic route 2 times per day for 14 days|INT OTIC 5 GTS AD 2 TIMES PER DAY X 14 DAYS ||
+4 drop(s) both ears tid,x18 day(s),Instr:prn itchiness of the ears|4 GTT BY EARS AU TID X 18 DAY PRN ||
+APPLY QD X 7 DAYS|APP QD X 7 DAYS ||
+apply on skin and eyelids 3 times every day both eyes|APP OU EYELIDS SKIN 3 TIMES QD ||
+apply to both lids QHS x 1 month|APP AB LIDS Q NIGHT BED X 1 MONTH ||
+Apply to lid margin OU HS X 1 week|APP OU LID BED X 1 WEEK ||
+0.5 (one half) centimeter in the left eye every evening at bedtime for fourteen days|OS QPM BED X 14 DAYS ||
+1 Film(s) every 3 days|1 FILM Q 3 DAYS ||
+Apply 1 patch to skin every 72 hours for pain|APP 1 PA SKIN Q 72 H P ||
+1 application topically to scalp daily to dry scalp|1 APPLICATION BY TOPICALLY SCALP SCALP D ||
+1 (one) Shampoo, External, qd|SHAMPOO BY EXT QD ||
+inject 12 u with dinner|INJ U WITH DINNER ||
+20 units before all meals tid|20 UNITS TID MEALS ||
+15 unit SQ AC,x30 day(s)|15 UNIT BY SQ AC X 30 DAY ||
+0.5 mL PO Q6H|0.5 ML PO Q 6 H ||
+Take 0.8 mL by mouth every 8 hours.|TK 0.8 ML PO Q 8 H ||
+30 mg IM q8h prn migraine.|30 MG MUSCLE Q 8 H FOR MIGRAINE PRN ||
+5mg po q1h prn pain/soa|SOA 5 MG PO Q 1 H P PRN ||
+TAKE 7.5 ML DAILY AT BEDTIME|TK 7.5 ML D BED ||
+7.5 ml po q AM|7.5 ML PO QAM ||
+10 ml p.o. qd|10 ML QD P ||
+Take 2 teaspoon(s) by mouth QD (Daily) X 1 Month (30d)|TK 2 TEASPOON PO QD D D X 1 MONTH ||
+10 mL By Mouth once a day,x30 Day(s),PRN:as needed for allergy symptoms|10 ML PO 1 TIME A DAY X 30 DAY FOR ALLERGY SYMPTOMS PRN PRN ||
+take by oral route  every day 1/2 a teaspoon as needed|TK TEASPOON BY ORAL QD PRN ||
+5 drops in each ears twice daily for 7 days|5 GTS BY EARS BID X 7 DAYS ||
+2 drop(s) both ears hs,Instr:to decrease itching and wax|2 GTT AU BED FOR ITCHING ||
+instill 2 drop by otic route 4 times every day into affected ear(s) , x10 days .|INT OTIC 2 GTT AFFECTED EAR 4 TIMES QD X 10 DAYS ||
+INSTILL 4 DROPS in ear canals once daily as needed for itching in ears|INT CAN 4 GTS BY EARS 1 TIME D FOR ITCHING PRN ||
+Spray 2 spray(s) twice a day by intranasal route for 30 days.|2 SPR SPR BY INTRANASAL BID X 30 DAYS ||
+1 squirt in each nostril BID|1 SQUIRT EACH NOS BID ||
+4 gtts to left ear tid|LEFT EAR TID ||
+Place 3 Drops in right ear 2 times daily for 14 days. Use in affected ear(s) as directed.|PLACE U 3 GTS AFFECTED EAR AD BID X 14 DAYS UTD ||
+5 gtts both ears tid,x7 day(s)|AU TID X 7 DAY ||
+2 OTIC three times a day|2 OTIC TID ||
+4 drop(s), Otic, 3 times per day|OTIC 4 GTT 3 TIMES PER DAY ||
+2 Gtt EAR-RIGHT TID,x7 Days|2 GTT BY EAR TID X 7 DAYS ||
+Apply to scalp twice a day for 2 weeks|APP SCALP BID X 2 WKS ||
+Apply once a day to scalp at night for one month|APP SCALP 1 TIME A DAY X 1 MONTH ||
+1 app top daily,x14 day(s)|APP BY TOPICALLY D X 14 DAY ||
+Apply  topically to affected area 2 times a day. Apply to scalp twice daily.|APP APP BY TOPICALLY AFFECTED AREA SCALP BID BID ||
+1 application apply on the skin twice a day; Apply twice daily until clear|APP APP 1 APPLICATION SKIN BID BID ||
+Apply  topically daily (every 24 hours). rub into  scalp daily as needed|APP RUB BY TOPICALLY SCALP Q 24 H D D PRN ||
+1 po daily|PO D ||
+Take 1 once a day , TAKE 1 TABLET BY MOUTH ONCE EVERY DAY|TK TK 1 T PO 1 TIME A DAY QD ||
+5 CC POI Q/6HR FOR 10 DAYS|5 CC X 10 DAYS ||
+25 Units by Subcutaneous route daily at bedtime.|25 UNITS BY SQ D BED ||
+Insert 1 suppository rectally 2 times daily as needed for Hemorrhoids for 10 days.|I 1 SUP BY REC BID X 10 DAYS PRN ||
+1 pr twice a day|BY REC BID ||
+Take 1 pill by mouth QHS (nightly) X 7 Days|TK 1 PILL PO Q NIGHT NIGHTLY BED X 7 DAYS ||
+1 suppository at bedtime for 10 days|1 SUP BED X 10 DAYS ||
+7 cc po q8h for fever/pain|7 CC PO Q 8 H FOR FEVER PAIN ||
+3/4 Teaspoon(s) PO Q8H|3/4 TEASPOON PO Q 8 H ||
+10 Milliliter(s) PO QID prn fever pain, take with food|TK 10 MILLILITER PO QID WF FOR FEVER PAIN PRN ||
+as directed , 10ml by mouth every 6 hours x 3 days. Take with food|TK 10 ML PO Q 6 H WF X 3 DAYS UTD ||
+Instill one drop TID OU|INT 1 GTT OU TID ||
+Instill 1 drop four times a day in both eyes.  Start 1 day before surgery.|INT 1 GTT OU QID X 1 DAY ||
+Take 1.5 ml po bid|TK 1.5 ML PO BID ||
+25 units sq bid|25 UNITS BY SQ BID ||
+1 tsf po q 12 hrly for 10 days|PO Q 12 HOURLY X 10 DAYS ||
+1 TSP PO QD X 5 DAYS|1 TSP PO QD X 5 DAYS ||
+1/2   tsp po BID for 10 days|1/2 TSP PO BID X 10 DAYS ||
+1/2 tsp po bid with food to complete 20 days.|1/2 TSP PO BID WF X 20 DAYS ||
+1/2 TSP PO Q 8 HRS X 10 DAYS|1/2 TSP PO Q 8 H X 10 DAYS ||
+10 mL PO qDay,x10 Day(s)|10 ML PO X 10 DAY ||
+1 teaspoon 3x a day with food for 10 days.|1 TEASPOON TID WF X 10 DAYS ||
+2 (two) Tablespoon, Oral, bid x 10 days, with food|TABLESPOON BY ORAL BID WF X 10 DAYS ||
+Take 1/2 tsp po bid x 10 days with food|TK 1/2 TSP PO BID WF X 10 DAYS ||
+2 tsp PO Q12 x 10 days|2 TSP PO X 10 DAYS ||
+2.2cc PO QDay x 10 ays|2.2 CC PO ||
+2.5 mL PO (oral) qDay,x3 day(s)|2.5 ML PO ORAL X 3 DAY ||
+3 mL PO BID,x10 day(s),Instr:with food for bilateral ear infection.|3 ML PO BID WF X 10 DAY FOR EAR INFECTION ||
+3 mL PO q8h,x7 days|3 ML PO Q 8 H X 7 DAYS ||
+3.15 mL PO Q12H, x10 Days|3.15 ML PO Q 12 H X 10 DAYS ||
+3/4 tsp bid x 10 days.   May flavor at parents request.|3/4 TSP BID X 10 DAYS ||
+3/4 tsp po qd x 5d|3/4 TSP PO QD D ||
+4 1/2 tsp po qday x 10 days, please given qs 10 days|1/2 TSP PO X 10 DAYS 10 DAYS ||
+5 mL PO Q24H,x7 Day(s)|5 ML PO Q 24 H X 7 DAY ||
+5 ml po QD x 5 days with food|5 ML PO QD WF X 5 DAYS ||
+5cc po Qam x 5 days|5 CC PO QAM X 5 DAYS ||
+6.25 mL PO q8Hr,x7 day(s)|6.25 ML PO Q 8 HOUR X 7 DAY ||
+7.5 mL By Mouth TID,x10 Day(s)|7.5 ML PO TID X 10 DAY ||
+as directed , 4 cc po bid x 10 days|4 CC PO BID X 10 DAYS UTD ||
+Take 1 teaspoon(s) by mouth QD (Daily) X 5 days|TK 1 TEASPOON PO QD D X 5 DAYS ||
+7.5 mL ORAL q12h,x10 day(s),Instr:Take with food|TK 7.5 ML BY ORAL Q 12 H WF X 10 DAY ||
+Take 3.5 ml once a day for 10 days|TK 3.5 ML 1 TIME A DAY X 10 DAYS ||
+Take 4 ml by mouth once a day with meals Take with food until gone.|TK TK 4 ML PO 1 TIME A DAY WC WF ||
+TAKE 4.5 MILLILITER BY ORAL ROUTE  EVERY 12 HOURS FOR 10 DAYS DISP: QS for right otitis media|TK 4.5 MILLILITER BY ORAL Q 12 H X 10 DAYS ||
+1/2 teaspoon twice a day x 10 days.  Take with food and space doses out 12 hours.|TK 1/2 TEASPOON BID WF X 10 DAYS ||
+400 MG PO Q8HS **SHAKE WELL BEFORE USE**|U 400 MG PO BED ||
+Take 2.5 mL 3 times a day by oral route as directed for 7 days.|TK 2.5 ML BY ORAL TID X 7 DAYS UTD ||
+1 TAB PO 4 times a day,x5 day|TK 1 T PO QID X 5 DAY ||
+2 tab(s) po qid,x3 day(s)|TK 2 T PO QID X 3 DAY ||
+Take 2 tablets by mouth every 6 hours as needed for Muscle spasms for 3 days.|TK 2 TS PO Q 6 H X 3 DAYS FOR MUSCLE SPASMS PRN ||
+Take 1 tablet (oral) every 12 hours PRN - Muscle Spasm for 5 days|TK 1 T BY ORAL MUSCLE Q 12 H X 5 DAYS FOR SPASM PRN ||
+TAKE 1 TABLET BY MOUTH EVERY 6 HOURS AS NEEDED FOR MUSCLE SPASMS|TK 1 T PO Q 6 H FOR MUSCLE SPASMS PRN ||
+1 tab PO TID,x7 Days,PRN:muscle spasms|TK 1 T PO TID X 7 DAYS FOR MUSCLE SPASMS PRN ||
+take 1 tablet by oral route once a day (in the evening) for 14 days|TK 1 T BY ORAL 1 TIME A DAY EVE X 14 DAYS ||
+Take 1 Tablet oral Twice a day , PRN (as needed) FOR SPASMS for 28 Days|TK 1 T BY ORAL BID X 28 DAYS FOR SPASMS PRN PRN ||
+1 (one) Tablet, Oral, 1 po qid|TK T PO ORAL QID ||
+1 po BID prn for muscle spasm x 10 days|PO MUSCLE BID X 10 DAYS FOR SPASM PRN ||
+1 po prn muscle spasm q 6 hours; May cause drowsiness|PO MUSCLE Q 6 H FOR DROWSINESS SPASM PRN ||
+TAKE 1 TABLET 3 TIMES DAILY PRN muscle spasm|TK 1 T MUSCLE TID FOR SPASM PRN ||
+1 tab PO qDay,x90 day(s)|TK 1 T PO X 90 DAY ||
+1 TABLET PO QOD (every other day)|TK 1 T PO QOD QOD ||
+TAKE 1 TABLET BY MOUTH THREE TIMES A WEEK|TK 1 T PO 3 TIMES A WEEK ||
+Take 1 Tab by mouth every morning|TK 1 T PO QAM ||
+1/2 tab twice weekly at bedtime|TK 1/2 T 2 TIMES WEEKLY BED ||
+1 ORAL two times a day|BY ORAL BID ||
+1 po QOD|PO QOD ||
+TAKE 1 tab po QOD HS|TK 1 T PO QOD BED ||
+TAKE 1 TABLET BY MOUTH UP TO 3 TIMES A WEEK|TK 1 T PO 3 TIMES A WEEK ||
+take 1 tablet (20 mg) by oral route q hs|TK 1 T 20 MG BY ORAL BED ||
+1 Tablet, Oral, QOD  at bedtime|TK 1 T BY ORAL QOD BED ||
+1 tab PO daily at bedtime for 6 weeks|TK 1 T PO D BED X 6 WKS ||
+1, QDay, HS, with food|BED WF ||
+Take 1 tablet (3.125 mg total) by mouth every 12 (twelve) hours.|TK 1 T 3.125 MG PO ||
+TAKE 1/2 TABLET BY MOUTH TWICE DAILY WITH A MEAL|TK 1/2 T PO BID MEAL ||
+1.5 by mouth twice daily|PO BID ||
+TAKE ONE-HALF (1/2) TABLET BY MOUTH TWICE A DAY FOR HIGH BLOOD PRESSURE|TK T PO BID FOR HIGH BP ||
+1 TAB(S) PO (ORAL) QDAY,X90 DAY(S),|TK 1 T PO ORAL X 90 DAY ||
+Take 1.5 tablets by mouth 2 times daily with meals.|TK 1.5 TS PO BID WC ||
+Take 0.5 tablets by mouth every 12 hours.|TK 0.5 TS PO Q 12 H ||
+1QDHS-TAKE ONE TABLET BY MOUTH EVERY DAY AT BEDTIME|TK 1 T PO QD BED ||
+1 tablet ORAL QODay (every other day)|TK 1 T BY ORAL QOD ||
+TK  1/2 T PO QD..|TK 1/2 T PO QD ||
+1 Tablet(s) PO BID TAKE 1 TABLET BY MOUTH TWICE DAILY|TK 1 1 T T PO MOUTH BID BID ||
+1 TAB DAILY ORAL ;one tab daily at bedtime|TK 1 1 T T BY ORAL D D BED ||
+2 Tab PO daily,x90 Day(s),Instr:at bedtime|TK 2 T PO D BED X 90 DAY ||
+Take one tab PO twice daily|TK 1 T PO BID ||
+1 daily , TAKE 1 TABLET BY MOUTH DAILY WITH FOOD|TK 1 T PO D D WF ||
+1 Tablet(s) PO Q12H Take with meals|TK 1 T PO Q 12 H WC ||
+TK 1 T PO TID WITH FOOD|TK 1 T PO TID WF ||
+1 tab(s) PO (oral) qDay,Instr:take with largest meal of the day|TK 1 T PO ORAL MEAL ||
+1 By Mouth q6hr As Needed with food|PO Q 6 HOUR WF PRN ||
+1 by mouth every 2 hours as needed for pain|PO Q 2 H P PRN ||
+45mg po q2h prn pain/soa PRN pain/soa|SOA SOA 45 MG PO Q 2 H P PAIN PRN PRN ||
+1 tab(s) Oral q8hr,PRN:Headache|TK 1 T BY ORAL Q 8 HOUR FOR HA PRN ||
+1 every 6 hours , prn pain|Q 6 H P PRN ||
+1 tablet By Mouth Daily at bedtime,x30 days|TK 1 T PO D BED X 30 DAYS ||
+Take 2.5 tabs by mouth one time daily at bedtime.|TK 2.5 TABS PO 1 TIME D BED ||
+TAKE 1 TABLET BY MOUTH TWICE DAILY WITH BREAKFAST AND DINNER ( BEST IF TAKEN WITH FOOD )|TK 1 T PO BID WITH BRE AND DINNER WF ||
+TAKE 1 TABLET BY MOUTH THREE TIMES A DAY 30 MINUTES BEFORE MEALS|TK 1 T PO TID B MEALS ||
+1 tablet ORAL TID (3 times a day),x90 day(s)|TK 1 T BY ORAL TID TID X 90 DAY ||
+1 po TID for depression/anxiety|PO TID FOR DEPRESSION ANXIETY ||
+0.5/half tablets by mouth daily|TK 0.5 TS PO D ||
+TAKE ONE-HALF TABLET BY MOUTH EVERY DAY|TK 0.5 T PO QD ||
+ONE TWICE DAILY|BID ||
+1/2 po qd|PO QD ||
+1QD - TAKE ONE TABLET BY MOUTH EVERY DAY|TK 1 T PO QD QD ||
+1/2 (one half) Tablet, Oral,  QD.|TK T BY ORAL QD ||
+as directed , Take one-half tablet by mouth every day|TK 0.5 T PO QD UTD ||
+1tab po qd|TK 1 T PO QD ||
+25MG; ORAL ;Two Times A Day|25 MG BY ORAL BID ||
+25 mg PO QD for high blood pressure - new medication|25 MG PO QD FOR HIGH BP ||
+once a day , TAKE 1 TABLET BY MOUTH EVERY DAY|TK 1 T PO 1 TIME A DAY QD ||
+1 tab PO Q24|TK 1 T PO ||
+1 tablet ORAL Daily,x30 day(s),PRN:Allergy Symptoms|TK 1 T BY ORAL D X 30 DAY FOR ALLERGY SYMPTOMS PRN ||
+1 tablet by Oral route 1 time per day allergies - pharm - d/c allegra|TK 1 C T BY ORAL 1 TIME PER DAY D FOR ALLERGIES ||
+once a day at 5 pm.|1 TIME A DAY EVE ||
+1 tablet ORAL qPM (once a day in the evening),x30 day(s)|TK 1 T BY ORAL 1 TIME A DAY QPM EVE X 30 DAY ||
+1 tab(s) po qpm|TK 1 T PO QPM ||
+1 tablet by Oral route 2 times per day for 4 months|TK 1 T BY ORAL 2 TIMES PER DAY X 4 MONTHS ||
+1 tab(s) orally 2 times a day x 90 days|TK 1 T BY ORALLY BID X 90 DAYS ||
+1 TAB three times daily ORAL FOR 20 days;NEEDS FASTING OV!|TK 1 T BY ORAL TID X 20 DAYS ||
+1 tab(s) PO 2xDay meal,Instr:Due for follow up|TK 1 T PO 2 TIMES DAY MEAL ||
+PO BID BEFORE BREAKFAST AND BEFORE SUPPER|PO BID B BRE B SUPPER ||
+TAKE 1 TABLET BY MOUTH THREE TIMES DAILY WITH MEALS TO CONTROL BLOOD SUGAR|TK 1 T PO TID WC FOR BLOOD SUGAR ||
+Take 1 tablet by mouth 2 times daily (with meals) for 90 days. Indications: Type 2 Diabetes Mellitus|TK 1 T PO BID WC X 90 DAYS FOR DIABETES ||
+Take 1 tablet by mouth daily (with breakfast) for 360 days.|TK 1 T PO D WITH BRE X 360 DAYS ||
+1 tab(s) PO (oral) tid,x90 day(s)|TK 1 T PO ORAL TID X 90 DAY ||
+1 tab(s) PO (oral) bid,x30 day(s),Instr:MUST BE SEEN IN MAY|TK 1 T PO ORAL BID X 30 DAY ||
+1 tab(s) po hs,x30 day(s),Instr:Take at night for blood sugar control|TK 1 T PO BED X 30 DAY FOR BLOOD SUGAR ||
+1 tab Oral BID [with breakfast & dinner],x30 days|TK 1 T BY ORAL BID WITH BRE X 30 DAYS ||
+1 tab(s) po qam,x30 day(s)|TK 1 T PO QAM X 30 DAY ||
+1 tab PO with Bkfst,Supper,x90 day(s)|TK 1 T PO X 90 DAY ||
+1 TAB three times daily X DM ORAL ;|TK 1 T BY ORAL TID ||
+1 TAB three times daily ORAL FOR 90 days;|TK 1 T BY ORAL TID X 90 DAYS ||
+Take 1 Tablet oral qd (every day) for 1 day|TK 1 T BY ORAL QD QD X 1 DAY ||
+1 PO Qdaily x 10d|PO D D ||
+2 po q day with food|PO QD WF ||
+Take 1 tablet (oral) 2 times per day for 10 days with food|TK 1 T BY ORAL 2 TIMES PER DAY WF X 10 DAYS ||
+1 PO QD X 5 days with food|PO QD WF X 5 DAYS ||
+1 tablet Oral QD (daily) take with food/fluid|TK 1 T BY ORAL QD D WF ||
+1 TABLET  P.O.  B. I. D. WITH FOOD.|I 1 T D WF P ||
+1 Po BId X 10 days with food|PO BID WF X 10 DAYS ||
+1 tab by mouth twice daily , TAKE W FOOD|TK 1 T PO BID FOOD ||
+1 po q8h for 10 days|PO Q 8 H X 10 DAYS ||
+1 Tab PO Q8H,x10 Day(s)|TK 1 T PO Q 8 H X 10 DAY ||
+1 po bid x5 days|PO BID X 5 DAYS ||
+1 PO Q12 x 10 days|PO X 10 DAYS ||
+1 po BID FOR 14 DAYS. Take with food|TK PO BID WF X 14 DAYS ||
+ORAL 1 po daily for 7 days|PO ORAL D X 7 DAYS ||
+Apply daily to hands for rash|APP D FOR RASH ||
+1 unit apply on the skin nightly; Apply to the scar nightly|APP APP 1 UNIT SKIN NIGHTLY NIGHTLY ||
+TAKE ONE TABLET BY MOUTH FOUR TIMES DAILY|TK 1 T PO QID ||
+2 once a day , Take 2 tablets by mouth every day.|TK 2 TS PO 1 TIME A DAY QD ||
+2 once a day , w/ food|1 TIME A DAY WF ||
+2 tabs daily once with food. x 10 days|2 TABS D WF X 10 DAYS ||
+DISSOLVE  1 TABLET ON TONGUE DAILY AS DIRECTED.|DIS 1 T TONGUE D UTD ||
+TAKE 1 TABLET 2 TIMES DAILY AFTER MEALS|TK 1 T BID AFTER MEALS ||
+as directed , 4 tabs  qpm, pt is aware of directions|4 TABS QPM UTD ||
+1 po tid w/ food|PO TID WF ||
+Apply q day to BID for 2 weeks only for flares|APP BID QD X 2 WKS FOR FLARES ||
+1 (one) Gel, External, Use as directed after meals and at hs.|U GEL BY EXT BED AFTER MEALS UTD ||
+2.5 mL by Oral route 1 time per day for 30 days (Do not take more than 5ml daily)|TK 2.5 ML 5 ML BY ORAL 1 TIME PER DAY D X 30 DAYS ||
+2, Drop(s), 4times/day, Instill drops into both ears as directed.|INT GTS GTT AU UTD ||
+OTIC 1-2 drops in ears BID|OTIC 1-2 GTS BY EARS BID ||
+Apply  topically 2 times daily for 14 days. Massage into affected areas of scalp twice daily as needed|APP BY TOPICALLY AFFECTED AREAS SCALP BID BID X 14 DAYS PRN ||
+Put 1 drop in the right eye 4 times/day starting after surgery|PUT 1 GTT OD ||
+0.1 mL Subcutan AC Brkfst|0.1 ML AC ||
+Take 3 ml po qday x 10 days. disp: #30 ml|TK 3 ML 30 ML PO X 10 DAYS ||
+1 tab(s) PO Every Bedtime,Instr:labs due in 6-8 weeks|TK 1 T PO Q BED X 6-8 WKS ||
+TAKE 1 TABLET BY MOUTH DAILY 5 TIMES A WEEK|TK 1 T PO 5 TIMES A WEEK D ||
+TAKE ONE TABLET BY MOUTH TWICE DAILY WITH FOOD FOR BLOOD PRESSURE ANDHEART|TK 1 T PO BID WF FOR BP ||
+800 MG PO Q8H Take one tab every 8 hours for 3 days.|TK 1 T 800 MG PO Q 8 H Q 8 H X 3 DAYS ||
+four times a day , i po qid with food.|I PO QID QID WF ||
+Take 1 tablet by mouth three times a day TK 1 T PO TID|TK TK 1 1 T T PO MOUTH TID TID ||
+I PO QDAY|I PO ||
+2 tab(s) PO 2xDay meal,Instr:Due for 6 month exam.  Please call to schedule|TK 2 T PO 2 TIMES DAY MEAL X 6 MONTH ||
+apply by topical route qam as an occlusive dressing to clean, dry affected areas|APP CC BY TOPICAL AFFECTED AREAS QAM ||
+Apply 4 mcg topically to affected area. Use it on palms, elbows and feet to areas of psoriasis.|APP U 4 MCG LB BY TOPICALLY AFFECTED AREA FEET FOR PSORIASIS ||
+twice a day , 1 tab by mouth BID; one in the morning and one at night. Take 12 hours apart.|TK 1 T PO BID BID MORNING ||
+inhale 2 puff (440MCG)  by inhalation route 2 times every day|INL 2 PUFF 440 MCG BY INHALATION 2 TIMES QD ||
+2 puffs qd or bid|2 PFS BID QD ||
+Take 1-2 puff(s) every 4-6 hours PRN - Wheezing for 7 days|TK 1-2 PUFF Q 4-6 H X 7 DAYS FOR WHZ PRN ||
+2 PUFFS PO Q4-6HOURS X 5-7 DAYS|2 PFS PO Q 4-6 H X 5-7 DAYS ||
+2 (two) puff(s), Inhalation, every four-six hours x 7 days prn|PUFF BY INHALATION X 7 DAYS PRN ||
+2 Puff(s) PO Q6-8H PRN|2 PUFF PO Q 6-8 H PRN ||
+1-2 puffs qid prn|1-2 PFS QID PRN ||
+1 to 2 puff(s), Nasal, daily|1 TO 2 PUFF BY NASAL D ||
+as directed , 2 tabs po qd x 10 days with food, NO TRUE PCN ALLERGY|2 TABS PO QD WF X 10 DAYS UTD ||
+TAKE ONE CAPSULE BY MOUTH EVERY MORNING AS NEEDED FOR PAIN WITH FOOD FOR INFLAMMATION|TK 1 C PO QAM WF FOR INFLAMMATION PAIN PRN ||
+INHALE THE CONTENTS OF 1 CAPSULE BY MOUTH TWICE DAILY USING AEROLIZER|INL 1 C PO BID ||
+Take 1 capsule by inhalation every 12 hours. Do not swallow capsule.|SWALLOW TK 1 C C BY INHALATION Q 12 H ||
+1  PO Q 6 hours X 10 days 1-2 hours before eating|PO Q 6 H X 10 DAYS ||
+take 0.5 to 2 tablets by mouth every 8 hours as needed, not to exceed 3 doses in 24 hours.|TK 0.5 TO 2 TS PO Q 8 H PRN ||
+1-4 caps PO Daily,PRN:pain|1-4 CAPS PO D P PRN ||
+1/2 to 1 cap PO Q8H,PRN:Pain|TK 1/2 TO 1 C PO Q 8 H P PRN ||
+Take 1 capsule (1.25 mg total) by mouth once daily. 1 capsule Oral Every day|TK 1 1 C C 1.25 MG PO ORAL 1 TIME D QD ||
+Take 1 capsule (25 mg total) by mouth 3 (three) times daily as needed (gout, take with meals).|TK TK 1 C 25 MG PO XD WC PRN ||
+one to three tid as tolerated. starting with HS dose|TID BED ||
+1-3 capsules by mouth nightly as needed (PRN); Take as needed for sleep or anxiety at night for the next month.|TK 1-3 CS PO NIGHTLY FOR ANXIETY SLP PRN PRN PRN ||
+Take 3-4 capsules by mouth nightly.|TK 3-4 CS PO NIGHTLY ||
+Take 1 capsule (300 mg total) by mouth at bedtime nightly as needed.|TK 1 C 300 MG PO NIGHTLY BED PRN ||
+take one capsule every 8 to 12 hours as needed for pain|TK 1 C Q 8 TO 12 H P PRN ||
+TAKE 2 TO 3 CAPSULES BY MOUTH EVERY NIGHT AT BEDTIME|TK 2 TO 3 CS PO Q NIGHT BED ||
+Take 1 capsule by mouth 3 times a week (MONDAY, Wednesday AND Friday)|TK 1 C PO 3 TIMES A WEEK ||
+Take 1 capsule (12.5 mg total) by mouth 2 (two) times daily.|TK 1 C 12.5 MG PO XD ||
+Take 1 capsule (250 mg total) by mouth 2 (two) times daily for 7 days.|TK 1 C 250 MG PO XD X 7 DAYS ||
+take 1 capsule (500 mg) by oral route every 6 hours for 7 days|TK 1 C 500 MG BY ORAL Q 6 H X 7 DAYS ||
+500 mg t.i.d. for 7 days^ May take with food.|TK 500 MG TID WF X 7 DAYS ||
+Take 2 Caps by mouth daily. 600mg QD. Please dispense generic only.|TK 2 CAPS 600 MG PO QD D ||
+as needed (PRN); once a day PRN pain once a day PRN pain|1 TIME A DAY 1 TIME A DAY P PAIN PRN PRN PRN PRN ||
+take 1 capsule (75 mg) by oral route once daily with food for 30 days|TK 1 C 75 MG BY ORAL 1 TIME D WF X 30 DAYS ||
+TAKE 1 CAPSULE (75 MG) BY ORAL ROUTE ONCE DAILY WITH FOOD X4 DAYS A WK|TK 1 C 75 MG BY ORAL 1 TIME D WF X 4 DAYS ||
+1 CAP PO BID x 3-5 days with food prn gout flare|TK 1 C PO BID WF X 3-5 DAYS FOR FLARE PRN ||
+1 PO QD - open up capsule and put bite of food daily.|PUT C PO QD D FOOD ||
+take 1 capsule (20MG)  by oral route  every bedtime before a meal|TK 1 C 20 MG BY ORAL Q BED AC ||
+Take 1 capsule (20 mg total) by mouth every night at bedtime|TK 1 C 20 MG PO Q NIGHT BED ||
+1 Capsule DR, Oral, twice daily an hour before or two hours after food|TK 1 C BY ORAL BID FOOD ||
+2 po q hs (120 mg)|120 MG PO BED ||
+as needed (PRN); AAA BID prn eczema|APP AFFECTED AREAS BID FOR ECZEMA PRN PRN PRN ||
+apply by topical route  every day to the affected area(s) ; do not exceed 45 grams per week.|APP 45 GRAM BY TOPICAL AFFECTED AREA PER WEEK QD ||
+1 gtt OU qid x 2-3 weeks|1 GTT OU QID X 2-3 WKS ||
+1 drop in surgical eye four times a day; Start day of surgery and continue for 4 weeks.|1 GTT EYE QID X 4 WKS ||
+Apply to affected sores twice daily for 10-14 days|APP BID X 10-14 DAYS ||
+Apply to psoriasis qd to bid couple weeks prn flare|APP BID QD FOR PSORIASIS FLARE PRN ||
+Take 2 Puffs by inhalation every 12 hours. Advair coupon: ID#: 316308215, RxBIN: 610524, RxGroup: 50776768, Issuer: 80840, RxPCN: 1016|TK 2 PFS BY INTRADERMAL INHALATION Q 12 H ||
+5-10 gtts qd prn  itch and dryness of scalp and face|SCALP FACE QD FOR ITCH PRN ||
+3 ML (1.26 MG) NEB Q6H PRN cough/wheeze|1.26 MG 3 ML Q 6 H NEB FOR WHEEZE COUGH PRN ||
+4-5 drops to the right ear twice daily for 7 days|4-5 GTS AD BID X 7 DAYS ||
+Instill 3-4 drop into affected ear at bedtime as needed for itching|INT 3-4 GTT AFFECTED EAR BED FOR ITCHING PRN ||
+2-3 drops  Oil, Otic, in and on ears up to once a week for itching|OTIC 2-3 GTS BY EARS 1 TIME A WEEK FOR ITCHING ||
+Apply to the affected site qd x 10 to 14 days or less  TOP|APP BY TOPICALLY AFFECTED SITE QD X 10 TO 14 DAYS ||
+1/2-1 po bid|PO BID ||
+apply 1 patch (50 mcg/hour) by transdermal route every 72 hours|APP 1 PA 50 MCG BY TRANSDERMAL Q 72 H ||
+inject by subcutaneous route 60-70 units daily via pump|INJ 60-70 UNITS BY SQ D PUMP ||
+2-14 units qac & qhs|2-14 UNITS Q NIGHT BED ||
+Inject 2-8 units 4 times daily per carbohydrate and high blood glucose formulas or as directed|INJ 2-8 UNITS QID UTD ||
+1  puff  2  times/  day  in  each  nostril 2  times/  day|1 PUFF EACH NOS ||
+2-3 ml by mouth every four hours as needed for pain TK 2 TO 3 ML VIA GTUBE Q 4 H PRF PAIN|TK 2-3 ML 2 TO 3 ML PO Q 4 H Q 4 H GTB P PAIN PRN PRN ||
+1/2   tsp/ day|1/2 TSP ||
+TAKE 5 - 10 MILLILITER (5MG)  BY ORAL ROUTE  EVERY DAY ONCE DAILY AS NEEDED FOR ALLERGIES|TK 10 MILLILITER 5 MG BY ORAL 1 TIME D QD FOR ALLERGIES PRN ||
+1-2 spray both mostrils BID|1-2 SPR BID ||
+1 OR 2 GTT(S) EACH EAR DAILY|2 GTT EACH EAR D ||
+4 gtt in ear(s) TID- QID x 10 days|4 GTT BY EAR TID QID X 10 DAYS ||
+Apply 3-5 drops in the ears every 6 hours for 7 days.|APP 3-5 GTS BY EARS Q 6 H X 7 DAYS ||
+INSTILL 4 DROPS IN AFFECTED EAR(S) EVERY 6 TO 8 HOURS FOR 5 TO 7 DAYS|INT 4 GTS AFFECTED EAR Q 6 TO 8 H X 5 TO 7 DAYS ||
+INSTILL 3 DROPS IN AFFECTED EAR(S) 3-4 TIMES DAILY.|INT 3 GTS AFFECTED EAR 3-QID ||
+three times a day , Apply 3-4 drops in right ear tid x 7-10  days|APP 3-4 GTS AD TID TID X 7-10 DAYS ||
+Apply small amount 1-2x/day to affected areas of scalp as needed for itching|APP AFFECTED AREAS SCALP FOR ITCHING PRN ||
+250 mg ORAL Q8H,x10 Day(s),Instr:1 hour before or 2 hours after meals|250 MG BY ORAL Q 8 H AFTER MEALS X 10 DAY ||
+insert 1 suppository (25 mg) by rectal route 2 times per day for 14 days|I 1 SUP 25 MG BY R 2 TIMES PER DAY X 14 DAYS ||
+Insert rectally twice daily for 3-5 days as needed for rectal bleeding.|I BY REC R BID X 3-5 DAYS PRN ||
+insert 1 suppository (30MG)  by rectal route 2 times every day as needed|I 1 SUP 30 MG BY R 2 TIMES QD PRN ||
+1 1/4 Teaspoons, PO Q6-8H x PRN fever or pain|1/4 TEASPOONS PO Q 6-8 H FOR FEVER PAIN PRN ||
+as directed , 5 cc po q 6 hrs w/food prn fever/pain x 1-2 days|5 CC PO Q 6 H WF X 1-2 DAYS FOR FEVER PAIN UTD PRN ||
+2 1/2 tsp po q6-8hrs. prn for pain or fever|1/2 TSP PO Q 6-8 H FOR FEVER PAIN PRN ||
+2 tsp po q6-8 hours prn fever or pain with food|2 TSP PO Q 6-8 H WF FOR FEVER PAIN PRN ||
+12 gm apply on the skin at bedtime as needed (PRN); Apply to affected area nigtly for thirty days as needed|APP APP APP AFFECTED AREA SKIN BED X 30 DAYS PRN PRN PRN ||
+mL by mouth as directed; 1 ml PO TID for 7 days|ML 1 ML PO MOUTH TID X 7 DAYS UTD ||
+For allergic reaction to food, take 2  teaspoons p.o., after usingepinephrine as directed. Call 911 and get to ER at once.|TK GET 2 TEASPOONS FOOD FOR ALLERGIC REACTION PAIN UTD ||
+TAKE 1  1/2 TABLET BY MOUTH bid|TK 1/2 T PO BID ||
+1 1/2 tablet by mouth every twelve hours|TK 1/2 T PO Q 12 H ||
+take 2 tablets (1,000 mg) by oral route 2 times per day with morning and evening meals for 90 days|TK 2 TS 1000 MG BY ORAL 2 TIMES PER DAY MORNING EVE MEALS X 90 DAYS ||
+take 1 tablet (500 mg) by oral route 2 times per day with morning and evening meals for 90 days|TK 1 T 500 MG BY ORAL 2 TIMES PER DAY MORNING EVE MEALS X 90 DAYS ||
+TAKE ONE TO TWO TABLETS BY MOUTH EVERY 6 HOURS AS NEEDED FOR MUSCLE SPASMS, STOP FLEXERIL|TK 1 TO 2 TS PO Q 6 H FOR MUSCLE SPASMS PRN ||
+Take 1-2 Tabs (750-1,500 mg) by mouth every 6 hours as needed.|TK 1-2 TABS 750-1500 MG PO Q 6 H PRN ||
+take 1-2 tablets by oral route  every 8 hours as needed not to exceed 3 doses in 24 hours|TK 1-2 TS BY ORAL Q 8 H PRN ||
+take 2 tablets (4 mg) by oral route every 6 hours as needed not to exceed 3 doses in 24 hours for 10 days|TK 2 TS 4 MG BY ORAL Q 6 H X 10 DAYS PRN ||
+take 1 tablet (4 mg) by oral route every 8 hours as needed not to exceed 3 doses in 24 hours for 30 days|TK 1 T 4 MG BY ORAL Q 8 H X 30 DAYS PRN ||
+0.5 - 1 po qid prn muscle spasm|PO MUSCLE QID FOR SPASM PRN ||
+take one to two p.o. q 6 hours prn back pain|TK Q 6 H FOR BACK PAIN PAIN PRN ||
+1/2-1 tab PO (oral) qDay|TK 2-1 T PO ORAL ||
+take 1/2 Tablet (10MG)  by oral route 3 times every week|TK 1/2 T 10 MG BY ORAL 3 TIMES Q WEEK ||
+take 2 tablets (40 mg) by oral route 2 times per day with meals|TK 2 TS 40 MG BY ORAL 2 TIMES PER DAY WC ||
+Take 1 tablet(s) by mouth at bedtime TWICE A WEEK AND TAKE WITH FIBER (Replaces Lipitor)|TK TK 1 T PO 2 TIMES A WEEK BED FIBER ||
+See directions below , Take 1/2 (2.5mg) tab 2 times a week.|TK T 2.5 MG 2 TIMES A WEEK ||
+Take 1.5 tablets (9.375 mg total) by mouth 2 (two) times daily. Or as directed|TK 1.5 TS 9.375 MG PO XD UTD ||
+1 tab(s) PO (oral) qDay,x30 day(s),Instr:if 90 d supply allowed by ins and is more cost effective may dispens #90 w 1 ref|TK 1 T PO ORAL D X 30 DAY ||
+TAKE 1 AND 1/2 BY MOUTH TWICE DAILY WITH FOOD|TK PO BID WF ||
+Take 3 tablets (150 mg total) by mouth daily. Take  Tablet by mouth three times daily|TK TK 3 TS T 150 MG PO MOUTH TID D ||
+take 1 tablet (375 mg) by oral route 2 times per day with food x 1-2 weeks|TK 1 T 375 MG BY ORAL 2 TIMES PER DAY WF X 1-2 WKS ||
+1 Tablet(s) (10 mg) by mouth up to four times daily as needed TAKE WITH FOOD. DON'T TAKE LONGER THAN 5 DAYS IN A ROW|TK TK 1 T T 10 MG PO QID WF X 5 DAYS PRN ||
+take 1 tablet by ORAL route  every day x 14 days WITH FOOD AFTER PROCEDURE DO NOT TAKE WITH OTHER NSAIDS|TK TK 1 T BY ORAL QD WF X 14 DAYS ||
+take 1 tablet (800MG)  by oral route q8h  with food prn pain|TK 1 T 800 MG BY ORAL Q 8 H WF P PRN ||
+TAKE 1 TABLET BY MOUTH EVERY 8 HOURS AS NEEDED FOR PAIN . NOT TO EXCEED 3 TABLETS PER DAY. TAKE WITH FOOD|TK TK 3 1 TS T PO Q 8 H WF P PRN ||
+1 TABLET (600 MG) PO TID PRN pain [Take with plenty of food and water]|TK 1 T 600 MG PO TID WATER FOOD P PRN ||
+One Tablet by mouth May take four times a day with food for a maximum of 5 days|TK 1 T PO QID WF X 5 DAYS ||
+1 po q6hrs with food prn cramps for max 5 days|PO Q 6 H WF X 5 DAYS FOR CRAMPS PRN ||
+1 tab po q6-8h prn pain/fever WITH FOOD|TK 1 T PO Q 6-8 H WF FOR FEVER PAIN PRN ||
+Take 1 tablet by mouth two times daily. for chronic pain. New dose. 1 month rx. Fill on/after:  3/10|TK 1 T PO BID X 1 MONTH P ||
+1-2 tabs q 4-6hrs prn pain|1-2 TABS Q 4-6 H P PRN ||
+Take 1 tablet(s) by mouth q 4 to 6 hr prn pain|TK 1 T PO Q 4 TO 6 HOUR P PRN ||
+Take 1 tablet (50 mg total) by mouth every 6 (six) hours as needed for Pain.|TK 1 T 50 MG PO P PRN ||
+TAKE 1 TO 2 TABLETS BY MOUTH EVERY 6 TO 8 HOURS AS NEEDED . MAX 4 TABLETS PER DAY|TK 1 TO 2 4 TS TS PO Q 6 TO 8 H PRN ||
+1-2 q 4-6h prn , TAKE 1 TO 2 TABLETS BY MOUTH EVERY 4 TO 6 HOURS ASNEEDED FOR PAIN ( MAXIMUM OF 8 TABLETS TOTAL PER DAY)|TK 1 TO 2 8 TS TS PO Q 4-6 H Q 4 TO 6 H P PRN ||
+one-two tablet three times a day as needed for pain|TK T TID P PRN ||
+four times a day , TAKE 1 TABLET BY MOUTH FOUR TIMES DAILY AS DIRECTEDneed appointment for more refills|TK 1 OINTMENT T PO QID QID ||
+1-2 Tablet t.i.d. PRN|TK 1-2 T TID PRN ||
+1/2-1 Tablet Three Times A Day|TK 2-1 T TID ||
+2 Tablet(s) (50 mg) by mouth daily at bedtime|TK 2 T 50 MG PO D BED ||
+0.5 tab(s) PO Bedtime,x30 day(s),Instr:Take 25mg by mouth at bedtime for sleep.|TK 0.5 T 25 MG PO MOUTH BED BED X 30 DAY FOR SLP ||
+1 (One) Tablet Twice a Day with food for depression|TK T BID WF FOR DEPRESSION ||
+0.5 to 1 tablet PO QHS Take approximately 30 min before bedtime.|TK 0.5 TO 1 T PO Q NIGHT BED BED ||
+Take 0.5 tablets (12.5 mg) by mouth daily.  Indications: High Blood Pressure|TK 0.5 TS 12.5 MG PO D FOR HIGH BP ||
+take 1 tablet (500 mg) by oral route 2 times per day with morning and evening meals for 30 days|TK 1 T 500 MG BY ORAL 2 TIMES PER DAY MORNING EVE MEALS X 30 DAYS ||
+take 1 tablet (1,000 mg) by oral route 2 times per day with morning and evening meals for 90 days|TK 1 T 1000 MG BY ORAL 2 TIMES PER DAY MORNING EVE MEALS X 90 DAYS ||
+Take 1 tab po qday for 10 days BIN: 610020, group 99992177, member 37780084306|TK 1 T PO X 10 DAYS ||
+1 po bid for 2-3 days prn diarrhea while traveling|PO BID X 2-3 DAYS FOR DH PRN ||
+1 tablet PO BID start 2 days prior to urologic procedure|TK 1 T PO BID X 2 DAYS ||
+1 (one) Tablet Tablet, Oral, 1 po bid for 5 days|TK T T PO ORAL BID X 5 DAYS ||
+twice a day , Take 1 tablet po bid for 10 days|TK 1 T PO BID BID X 10 DAYS ||
+Take 1 tablet, extended release 24 hr orally daily with food|TK 1 T BY ORALLY D WF ||
+take 1 tablet (37.5 mg) by oral route once daily in the morning at the same time each day with food for 30 days|TK 1 T 37.5 MG BY ORAL 1 TIME D EACH DAY MORNING WF X 30 DAYS ||
+4 Tablet Extended Rel 24 hr once a day by mouth TAKE 4 TABLETS BY MOUTH ONCE DAILY|TK 4 4 TS T PO MOUTH 1 TIME A DAY 1 TIME D ||
+1 (One) tablet extended release 24hr(s) by mouth twice a day|TK T PO BID ||
+1 (one) Tablet ER 24HR Tablet ER 24HR, Oral, four times daily|TK T T BY ORAL QID Q 24 HOUR Q 24 HOUR ||
+take 1 Tablet (500MG)  by oral route  every 12 hours for 10 days with food|TK 1 T 500 MG BY ORAL Q 12 H WF X 10 DAYS ||
+2 (two) Tablet ER 24HR, Oral, qd with food|TK T BY ORAL Q 24 HOUR QD WF ||
+take 1 tablet by oral route  every day for 30 days and place on top of the tongue where it will dissolve, then swallow|DIS SWALLOW PLACE TK 1 T BY TOPICALLY ORAL TONGUE QD X 30 DAYS ||
+1 tab PO daily x 3-4 days|TK 1 T PO D X 3-4 DAYS ||
+1 tab(s) PO 2xDay,Instr:Take with food or milk|TK 1 T PO 2 TIMES DAY WF MILK ||
+1 tablet By Mouth 2 times a day,x30 days,PRN:as needed for arthritis/back pain,Instr:with food; drink plenty of water|DRK 1 T PO BID WF WATER X 30 DAYS FOR BACK PAIN ARTHRITIS PRN PRN ||
+Take 1 tablet (75 mg total) by mouth 2 (two) times daily. Take 1 tab PO 2 x a day with food, for 7-10 days.|TK TK 1 1 T T 75 MG PO MOUTH BID XD WF X 7-10 DAYS ||
+Take 1 tablet (500 mg total) by mouth daily at bedtime|TK 1 T 500 MG PO D BED ||
+Take 40 mg total (1 tablet) by mouth at bedtime for 30 days|TK 1 T 40 MG PO BED X 30 DAYS ||
+2 TABS X 1D, 1TAB X ORAL QD|TK 2 TS PO AT ONCE TODAY, THEN TK 1 T PO ONCE D FOR 4 DAYS||
+TAKE 1 TABLET (150 MG) BY ORAL ROUTE ONCE NOW AND ANOTHER IN 72 HOURS|TK 1 T PO ONCE NOW AND ANOTHER IN 72 HOURS||
+APPLY AS DIRECTED 3X/ WEEK|APP UTD 3 TIMES PER WEEK||
+TAKE 2 TABS BY MOUTH AT BEDTIME DAILY.|TK 2 TS PO QHS||
+APPLY TWICE DAILY TO FACE FOR 14 DAYS PER MONTH.|APP BID TO FACE FOR 14 DAYS PER MONTH||
+TAKE 8 TABLETS PER WEEK|TK 8 TS PER WEEK UTD||
+TAKE 1 TABLET 1 TIME ONLY.|TK 1 T PO ONCE||
+TAKE 1 TABLET (20MG) BY ORAL ROUTE Q3D PRN|TK 1 T PO Q 3 DAYS PRN||

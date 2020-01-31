@@ -1,0 +1,302 @@
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:34:	Variables that are final and static should be all capitals, 'logger' is not all capitals.
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:41:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:48:	Avoid excessively long variable names like listDictionaryCache
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:48:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:55:	Avoid excessively long variable names like mapDictionaryCache
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:55:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:62:	Avoid excessively long variable names like replaceInPatternDictionaryCache
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:62:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:72:	Local variable 'listTOs' could be declared final
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:84:	Local variable 'listTOs' could be declared final
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:96:	Local variable 'listTOs' could be declared final
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:107:	Found 'UR'-anomaly for variable 'cachedKey' (lines '107'-'117').
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:107:	Parameter 'cache' is not assigned and could be declared final
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:107:	Parameter 'map' is not assigned and could be declared final
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:113:	Local variable 'cachedKeys' could be declared final
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:114:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:115:	Local variable 'obsoleteKeys' could be declared final
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:116:	Local variable 'cachedKey' could be declared final
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:139:	Found 'UR'-anomaly for variable 'listTO' (lines '139'-'146').
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:139:	Parameter 'listTOs' is not assigned and could be declared final
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:141:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:144:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:144:	Local variable 'map' could be declared final
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:145:	Local variable 'listTO' could be declared final
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:160:	Found 'UR'-anomaly for variable 'mapTO' (lines '160'-'167').
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:160:	Parameter 'mapTOs' is not assigned and could be declared final
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:162:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:165:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:165:	Local variable 'map' could be declared final
+src/com/cts/textparser/bo/LoadDictionaryCacheBO.java:166:	Local variable 'mapTO' could be declared final
+src/com/cts/textparser/cache/DictionaryCache.java:24:	Avoid modifiers which are implied by the context
+src/com/cts/textparser/cache/DictionaryCache.java:31:	Avoid modifiers which are implied by the context
+src/com/cts/textparser/cache/DictionaryCache.java:41:	Avoid modifiers which are implied by the context
+src/com/cts/textparser/cache/DictionaryCache.java:49:	Avoid modifiers which are implied by the context
+src/com/cts/textparser/cache/DictionaryCache.java:58:	Avoid modifiers which are implied by the context
+src/com/cts/textparser/cache/DictionaryCache.java:65:	Avoid modifiers which are implied by the context
+src/com/cts/textparser/cache/DictionaryCache.java:72:	Avoid modifiers which are implied by the context
+src/com/cts/textparser/cache/DictionaryCache.java:77:	Avoid modifiers which are implied by the context
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:20:	Comment is too large: Line too long
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:27:	Variables that are final and static should be all capitals, 'logger' is not all capitals.
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:32:	Private field 'name' could be made final; it is only initialized in the declaration or constructor.
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:38:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:38:	Private field 'cache' could be made final; it is only initialized in the declaration or constructor.
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:40:	Comment is too large: Too many lines
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:51:	Parameter 'cache' is not assigned and could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:51:	Parameter 'name' is not assigned and could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:61:	debug logging that involves string concatenation should be guarded with isDebugEnabled() checks
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:73:	Parameter 'key' is not assigned and could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:74:	Local variable 'element' could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:76:	Comment is too large: Line too long
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:77:	Assigning an Object to null is a code smell.  Consider refactoring.
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:77:	Local variable 'value' could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:77:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:77:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:77:	Useless parentheses.
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:77:	Useless parentheses.
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:78:	Consider simply returning the value vs storing it in local variable 'value'
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:101:	Parameter 'key' is not assigned and could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:101:	Parameter 'value' is not assigned and could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:103:	debug logging that involves string concatenation should be guarded with isDebugEnabled() checks
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:104:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:108:	Local variable 'existingValue' could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:112:	debug logging that involves string concatenation should be guarded with isDebugEnabled() checks
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:123:	Parameter 'map' is not assigned and could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:124:	Local variable 'elements' could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:126:	debug logging that involves string concatenation should be guarded with isDebugEnabled() checks
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:131:	debug logging that involves string concatenation should be guarded with isDebugEnabled() checks
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:142:	Parameter 'key' is not assigned and could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:144:	debug logging that involves string concatenation should be guarded with isDebugEnabled() checks
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:145:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:149:	Local variable 'existingValue' could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:152:	debug logging that involves string concatenation should be guarded with isDebugEnabled() checks
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:162:	Parameter 'keys' is not assigned and could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:164:	debug logging that involves string concatenation should be guarded with isDebugEnabled() checks
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:169:	debug logging that involves string concatenation should be guarded with isDebugEnabled() checks
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:189:	Found 'UR'-anomaly for variable 'entry' (lines '189'-'196').
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:189:	Parameter 'map' is not assigned and could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:191:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:194:	Local variable 'elements' could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:195:	Local variable 'entry' could be declared final
+src/com/cts/textparser/cache/impl/DictionaryCacheImpl.java:197:	Avoid instantiating new objects inside loops
+src/com/cts/textparser/constant/ErrorConstants.java:12:	Each class should declare at least one constructor
+src/com/cts/textparser/constant/ErrorConstants.java:16:	Avoid excessively long variable names like UNABLE_TO_READ_FROM_WORKBOOK
+src/com/cts/textparser/constant/GeneralConstants.java:12:	Each class should declare at least one constructor
+src/com/cts/textparser/constant/GeneralConstants.java:17:	Avoid excessively long variable names like WSN_REPLACE_IN_PATTERN
+src/com/cts/textparser/constant/RegexConstants.java:12:	Each class should declare at least one constructor
+src/com/cts/textparser/constant/RegexConstants.java:14:	Avoid excessively long variable names like ONE_OR_MORE_WHITE_SPACE
+src/com/cts/textparser/scheduler/SchedulerJob.java:17:	Avoid modifiers which are implied by the context
+src/com/cts/textparser/scheduler/impl/DictionarySchedulerJob.java:22:	Variables that are final and static should be all capitals, 'logger' is not all capitals.
+src/com/cts/textparser/scheduler/impl/DictionarySchedulerJob.java:29:	Avoid excessively long variable names like loadDictionaryCacheBO
+src/com/cts/textparser/scheduler/impl/DictionarySchedulerJob.java:29:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cts/textparser/to/ListTO.java:49:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/to/ListTO.java:49:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/to/ListTO.java:50:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/cts/textparser/to/ListTO.java:65:	Parameter 'name' is not assigned and could be declared final
+src/com/cts/textparser/to/ListTO.java:79:	Parameter 'description' is not assigned and could be declared final
+src/com/cts/textparser/to/ListTO.java:93:	Parameter 'value' is not assigned and could be declared final
+src/com/cts/textparser/to/ListTO.java:97:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/to/ListTO.java:97:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/to/ListTO.java:110:	Parameter 'sortInd' is not assigned and could be declared final
+src/com/cts/textparser/to/ListTO.java:114:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/to/ListTO.java:114:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/to/MapTO.java:49:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/to/MapTO.java:49:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/to/MapTO.java:50:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/cts/textparser/to/MapTO.java:65:	Parameter 'name' is not assigned and could be declared final
+src/com/cts/textparser/to/MapTO.java:79:	Parameter 'description' is not assigned and could be declared final
+src/com/cts/textparser/to/MapTO.java:93:	Parameter 'value' is not assigned and could be declared final
+src/com/cts/textparser/to/MapTO.java:97:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/to/MapTO.java:97:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/to/MapTO.java:110:	Parameter 'sortInd' is not assigned and could be declared final
+src/com/cts/textparser/to/MapTO.java:114:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/to/MapTO.java:114:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/to/ReplaceInPatternItem.java:38:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/to/ReplaceInPatternItem.java:56:	Parameter 'lookupValue' is not assigned and could be declared final
+src/com/cts/textparser/to/ReplaceInPatternItem.java:72:	Parameter 'targetValue' is not assigned and could be declared final
+src/com/cts/textparser/to/ReplaceInPatternItem.java:88:	Parameter 'replacement' is not assigned and could be declared final
+src/com/cts/textparser/to/ReplaceInPatternItem.java:96:	Avoid variables with short names like o
+src/com/cts/textparser/to/ReplaceInPatternItem.java:96:	Parameter 'o' is not assigned and could be declared final
+src/com/cts/textparser/to/TextParserExceptionTO.java:35:	Parameter 'resultCode' is not assigned and could be declared final
+src/com/cts/textparser/to/TextParserExceptionTO.java:49:	Parameter 'resultDescription' is not assigned and could be declared final
+src/com/cts/textparser/util/DictionaryUtil.java:23:	All methods are static.  Consider using Singleton instead.  Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/com/cts/textparser/util/DictionaryUtil.java:25:	Variables that are final and static should be all capitals, 'logger' is not all capitals.
+src/com/cts/textparser/util/DictionaryUtil.java:27:	Comment is too large: Too many lines
+src/com/cts/textparser/util/DictionaryUtil.java:37:	Parameter 'items' is not assigned and could be declared final
+src/com/cts/textparser/util/DictionaryUtil.java:37:	Parameter 'sortInd' is not assigned and could be declared final
+src/com/cts/textparser/util/DictionaryUtil.java:40:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/util/DictionaryUtil.java:66:	Comment is too large: Too many lines
+src/com/cts/textparser/util/DictionaryUtil.java:76:	Found 'UR'-anomaly for variable 'key' (lines '76'-'97').
+src/com/cts/textparser/util/DictionaryUtil.java:76:	Parameter 'items' is not assigned and could be declared final
+src/com/cts/textparser/util/DictionaryUtil.java:76:	Parameter 'sortInd' is not assigned and could be declared final
+src/com/cts/textparser/util/DictionaryUtil.java:79:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/util/DictionaryUtil.java:82:	Found 'DD'-anomaly for variable 'sortedMap' (lines '82'-'85').
+src/com/cts/textparser/util/DictionaryUtil.java:82:	Found 'DD'-anomaly for variable 'sortedMap' (lines '82'-'95').
+src/com/cts/textparser/util/DictionaryUtil.java:91:	Local variable 'keys' could be declared final
+src/com/cts/textparser/util/DictionaryUtil.java:96:	Local variable 'key' could be declared final
+src/com/cts/textparser/util/StringTokenDescComparator.java:12:	Comment is too large: Line too long
+src/com/cts/textparser/util/StringTokenDescComparator.java:26:	Parameter 'text1' is not assigned and could be declared final
+src/com/cts/textparser/util/StringTokenDescComparator.java:26:	Parameter 'text2' is not assigned and could be declared final
+src/com/cts/textparser/util/StringTokenDescComparator.java:29:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/util/StringTokenDescComparator.java:32:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/util/StringTokenDescComparator.java:35:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/util/StringTokenDescComparator.java:39:	Local variable 'len1' could be declared final
+src/com/cts/textparser/util/StringTokenDescComparator.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/StringTokenDescComparator.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/StringTokenDescComparator.java:40:	Local variable 'len2' could be declared final
+src/com/cts/textparser/util/StringTokenDescComparator.java:40:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/StringTokenDescComparator.java:40:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/StringTokenDescComparator.java:44:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/util/StringTokenDescComparator.java:48:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/util/StringTokenDescComparator.java:52:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/StringTokenDescComparator.java:52:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/TextParserException.java:24:	Avoid excessively long variable names like textParserExceptionTO
+src/com/cts/textparser/util/TextParserException.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cts/textparser/util/TextParserException.java:24:	Private field 'textParserExceptionTO' could be made final; it is only initialized in the declaration or constructor.
+src/com/cts/textparser/util/TextParserException.java:27:	Comment is too large: Too many lines
+src/com/cts/textparser/util/TextParserException.java:36:	Parameter 'exceptionTO' is not assigned and could be declared final
+src/com/cts/textparser/util/TextParserException.java:36:	Parameter 'message' is not assigned and could be declared final
+src/com/cts/textparser/util/TextParserException.java:41:	Comment is too large: Too many lines
+src/com/cts/textparser/util/TextParserException.java:53:	Parameter 'cause' is not assigned and could be declared final
+src/com/cts/textparser/util/TextParserException.java:53:	Parameter 'exceptionTO' is not assigned and could be declared final
+src/com/cts/textparser/util/TextParserException.java:53:	Parameter 'message' is not assigned and could be declared final
+src/com/cts/textparser/util/TextParserUtil.java:27:	Avoid excessively long variable names like resultCodeProperties
+src/com/cts/textparser/util/TextParserUtil.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cts/textparser/util/TextParserUtil.java:36:	Parameter 'resultCode' is not assigned and could be declared final
+src/com/cts/textparser/util/TextParserUtil.java:48:	Avoid reassigning parameters such as 'resultCode'
+src/com/cts/textparser/util/TextParserUtil.java:48:	Parameter 'cause' is not assigned and could be declared final
+src/com/cts/textparser/util/TextParserUtil.java:50:	Local variable 'resultDescription' could be declared final
+src/com/cts/textparser/util/TextParserUtil.java:53:	Avoid excessively long variable names like textParserExceptionTO
+src/com/cts/textparser/util/TextParserUtil.java:53:	Local variable 'textParserExceptionTO' could be declared final
+src/com/cts/textparser/util/TextParserUtil.java:75:	Parameter 'resultCode' is not assigned and could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:40:	The Logger variable declaration does not contain the static and final modifiers
+src/com/cts/textparser/util/WorkbookUtil.java:46:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cts/textparser/util/WorkbookUtil.java:50:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cts/textparser/util/WorkbookUtil.java:57:	Comment is too large: Too many lines
+src/com/cts/textparser/util/WorkbookUtil.java:67:	Parameter 'sheetName' is not assigned and could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:68:	Found 'DU'-anomaly for variable 'listTOs' (lines '68'-'98').
+src/com/cts/textparser/util/WorkbookUtil.java:68:	Local variable 'listTOs' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:71:	Local variable 'sheet' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:74:	debug logging that involves string concatenation should be guarded with isDebugEnabled() checks
+src/com/cts/textparser/util/WorkbookUtil.java:79:	Local variable 'row' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:79:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:82:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:84:	Local variable 'listTO' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:85:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:88:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:91:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:91:	debug logging that involves string concatenation should be guarded with isDebugEnabled() checks
+src/com/cts/textparser/util/WorkbookUtil.java:92:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/cts/textparser/util/WorkbookUtil.java:100:	Comment is too large: Too many lines
+src/com/cts/textparser/util/WorkbookUtil.java:111:	Parameter 'sheetName' is not assigned and could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:112:	Found 'DU'-anomaly for variable 'mapTOs' (lines '112'-'142').
+src/com/cts/textparser/util/WorkbookUtil.java:112:	Local variable 'mapTOs' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:115:	Local variable 'sheet' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:118:	debug logging that involves string concatenation should be guarded with isDebugEnabled() checks
+src/com/cts/textparser/util/WorkbookUtil.java:123:	Local variable 'row' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:123:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:126:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:128:	Local variable 'mapTO' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:129:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:132:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:135:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:135:	debug logging that involves string concatenation should be guarded with isDebugEnabled() checks
+src/com/cts/textparser/util/WorkbookUtil.java:136:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/cts/textparser/util/WorkbookUtil.java:144:	Comment is too large: Too many lines
+src/com/cts/textparser/util/WorkbookUtil.java:145:	Comment is too large: Line too long
+src/com/cts/textparser/util/WorkbookUtil.java:154:	Parameter 'sheetName' is not assigned and could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:155:	Found 'DU'-anomaly for variable 'listTOs' (lines '155'-'185').
+src/com/cts/textparser/util/WorkbookUtil.java:155:	Local variable 'listTOs' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:158:	Local variable 'sheet' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:161:	debug logging that involves string concatenation should be guarded with isDebugEnabled() checks
+src/com/cts/textparser/util/WorkbookUtil.java:166:	Local variable 'row' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:166:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:169:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:171:	Local variable 'listTO' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:172:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:175:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:178:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:178:	debug logging that involves string concatenation should be guarded with isDebugEnabled() checks
+src/com/cts/textparser/util/WorkbookUtil.java:179:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/cts/textparser/util/WorkbookUtil.java:187:	Comment is too large: Too many lines
+src/com/cts/textparser/util/WorkbookUtil.java:199:	Avoid reassigning parameters such as 'columnIdx'
+src/com/cts/textparser/util/WorkbookUtil.java:199:	Avoid reassigning parameters such as 'columnIdx'
+src/com/cts/textparser/util/WorkbookUtil.java:199:	Parameter 'sheet' is not assigned and could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:200:	Local variable 'listTO' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:205:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:205:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:205:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:205:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:206:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:206:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:206:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:206:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:207:	Local variable 'sortInd' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:207:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:207:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:209:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:212:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:216:	Local variable 'list' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:222:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:224:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:231:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:236:	Comment is too large: Too many lines
+src/com/cts/textparser/util/WorkbookUtil.java:248:	Parameter 'columnIdx' is not assigned and could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:248:	Parameter 'sheet' is not assigned and could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:249:	Local variable 'mapTO' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:251:	Local variable 'valueColumnIdx' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:254:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:254:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:254:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:254:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:255:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:255:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:255:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:255:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:256:	Local variable 'sortInd' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:256:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:256:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:258:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:261:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:265:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/com/cts/textparser/util/WorkbookUtil.java:265:	Local variable 'map' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:270:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:272:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:272:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:279:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:284:	Comment is too large: Too many lines
+src/com/cts/textparser/util/WorkbookUtil.java:296:	Avoid reassigning parameters such as 'columnIdx'
+src/com/cts/textparser/util/WorkbookUtil.java:296:	Parameter 'sheet' is not assigned and could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:297:	Local variable 'listTO' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:298:	Use one line for each declaration, it enhances code readability.
+src/com/cts/textparser/util/WorkbookUtil.java:304:	Found 'DU'-anomaly for variable 'replacementIdx' (lines '304'-'340').
+src/com/cts/textparser/util/WorkbookUtil.java:306:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:306:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:306:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:306:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:307:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:307:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:307:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:307:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:308:	Local variable 'sortInd' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:308:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:308:	Potential violation of Law of Demeter (method chain calls)
+src/com/cts/textparser/util/WorkbookUtil.java:310:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:313:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:317:	Local variable 'list' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:318:	Avoid excessively long variable names like replaceInPatternItem
+src/com/cts/textparser/util/WorkbookUtil.java:323:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:325:	Avoid instantiating new objects inside loops
+src/com/cts/textparser/util/WorkbookUtil.java:326:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:327:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:327:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:328:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:328:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:330:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:337:	Potential violation of Law of Demeter (object not created locally)
+src/com/cts/textparser/util/WorkbookUtil.java:351:	Parameter 'sheetName' is not assigned and could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:352:	Found 'DD'-anomaly for variable 'sheet' (lines '352'-'361').
+src/com/cts/textparser/util/WorkbookUtil.java:355:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cts/textparser/util/WorkbookUtil.java:360:	Local variable 'workbook' could be declared final
+src/com/cts/textparser/util/WorkbookUtil.java:361:	Potential violation of Law of Demeter (object not created locally)

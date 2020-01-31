@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://ehcache.org/ehcache.xsd"
+	updateCheck="false">
+
+	<cache name="listEhCache" maxElementsInMemory="400" eternal="true"
+		overflowToDisk="false" timeToIdleSeconds="0" timeToLiveSeconds="0"
+		memoryStoreEvictionPolicy="LRU" diskPersistent="false">
+	</cache>
+	<cache name="mapEhCache" maxElementsInMemory="400" eternal="true"
+		overflowToDisk="false" timeToIdleSeconds="0" timeToLiveSeconds="0"
+		memoryStoreEvictionPolicy="LRU" diskPersistent="false">
+	</cache>
+	<cache name="replaceInPatternEhCache" maxElementsInMemory="400" eternal="true"
+		overflowToDisk="false" timeToIdleSeconds="0" timeToLiveSeconds="0"
+		memoryStoreEvictionPolicy="LRU" diskPersistent="false">
+	</cache>
+	<cache name="insertInPatternEhCache" maxElementsInMemory="400" eternal="true"
+		overflowToDisk="false" timeToIdleSeconds="0" timeToLiveSeconds="0"
+		memoryStoreEvictionPolicy="LRU" diskPersistent="false">
+	</cache>
+	<cache name="attributeEhCache" maxElementsInMemory="400" eternal="true"
+		overflowToDisk="false" timeToIdleSeconds="0" timeToLiveSeconds="0"
+		memoryStoreEvictionPolicy="LRU" diskPersistent="false">
+	</cache>
+	<cache name="operationEhCache" maxElementsInMemory="400" eternal="true"
+		overflowToDisk="false" timeToIdleSeconds="0" timeToLiveSeconds="0"
+		memoryStoreEvictionPolicy="LRU" diskPersistent="false">
+	</cache>
+	<cache name="parseActivityEhCache" maxElementsInMemory="400" eternal="true"
+		overflowToDisk="false" timeToIdleSeconds="0" timeToLiveSeconds="0"
+		memoryStoreEvictionPolicy="LRU" diskPersistent="false">
+	</cache>
+</ehcache>
+	

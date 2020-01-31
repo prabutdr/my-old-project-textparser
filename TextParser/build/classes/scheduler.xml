@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean name="updateDictionarySimpleJob" class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean">
+		<property name="targetObject" ref="dictionarySchedulerJob"/>
+		<property name="targetMethod" value="execute"/>
+	</bean>
+	
+	<bean name="updateDictionaryCronJob" class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean">
+		<property name="targetObject" ref="dictionarySchedulerJob"/>
+		<property name="targetMethod" value="execute"/>
+	</bean>
+	
+	<bean id="updateDictionarySimpleJobTrigger" class="org.springframework.scheduling.quartz.SimpleTriggerBean">
+		<property name="jobDetail" ref="updateDictionarySimpleJob"></property>
+		<property name="startDelay" value="10000"></property>
+		<property name="repeatInterval" value="0"></property>
+		<property name="repeatCount" value="0"></property>
+	</bean>
+	
+	<bean id="updateDictionaryCronJobTrigger" class="org.springframework.scheduling.quartz.CronTriggerBean">
+		<property name="jobDetail" ref="updateDictionaryCronJob"></property>
+		<property name="cronExpression" value="0 0 4 * * ?"></property>
+	</bean>
+	
+	<bean class = "org.springframework.scheduling.quartz.SchedulerFactoryBean">
+		<property name="jobDetails">
+			<list>
+				<ref bean="updateDictionarySimpleJob"/>
+				<ref bean="updateDictionaryCronJob"/>
+			</list>
+		</property>	
+		<property name="triggers">
+			<list>
+				<ref bean="updateDictionarySimpleJobTrigger"/>
+				<ref bean="updateDictionaryCronJobTrigger"/>
+			</list>
+		</property>
+	</bean>
+	
+</beans>
